@@ -47,5 +47,5 @@
 ###
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=MouseSun846&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="280" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouseSun846&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="280" />
+<img src="https://github-readme-stats.vercel.app/api?username=MouseSun846&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouseSun846&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" />
